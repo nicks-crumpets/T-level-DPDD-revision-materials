@@ -1,4 +1,7 @@
 # T-level-DPDD-revision-materials
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31EC98I)
+
 Revision materials for the T level in Digital Production Design and Development.
 
 This **only contains first year material currently** and will contain seccond year material later
