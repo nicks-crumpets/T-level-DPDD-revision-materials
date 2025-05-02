@@ -1,0 +1,65 @@
+- What are 3 positives of autonomous systems? >>>
+    - Systems can run 24/7 without any intervention
+    - Costs a lot less as there is less people to pay (but harms job market)
+    - Increased precision and accuracy (mainly in repetitive tasks)
+    - Ability to work in harmful environments
+    - Consistently has the same outcome
+- What are 3 negatives of autonomous systems? >>>
+    - Large job displacement
+    - Safety concerns (Malfunctions etc.)
+    - Ethical dilemmas (Trolley problem)
+    - Privacy issues, data collection can raise concerns
+    - Bias and unfairness
+    - Public trust is low
+- What are the 5 main moral ideologies >>>
+    -  Utilitarian
+    -  Value of life
+    -  Deontological
+    -  Action vs Inaction
+    - Moral responsibility & blame
+- What is utilitarianism?→Focusing on the outcomes and the best possible outcome   
+- What is value of life?→Is one life better than another, if so how?
+- What is the deontological ideology?→Following the moral rules of not harming another person regardless of greater good  
+- What is action vs inaction?→Is there a moral difference between doing something and not doing anything?
+- What is moral responsibility & blame?→Who holds responsibility? The lever puller or who lead to this problem happening  
+- What are the 6 levels of self driving car technologies? ^^^ *According to SAE Int.* ^^^ >>>
+    - No automation 
+    - Driver assistance
+    - Partial automation
+    - Conditional automation
+    - High automation
+    -  *Full automation (Theoretical)* 
+- What are the 5 main moral pillars? >>>
+    -  Utilitarianism
+    -  Value of life
+    -  Deontological
+    -  Action vs Inaction  
+    -  Moral responsibility & blame
+- What is Utilitarianism?→Focussing on all outcomes and choosing the best possible outcome for the  *only * the majority
+- What is Value of life?→The moral responsibility of deciding weather or not one life is worth more than another
+- What are Deontological ethics?→Following the moral rules of not harming another person regardless of greater good  
+- What is action vs inaction?→Deciding if there is a moral difference between doing something and not doing anything in a given scenario
+- What is Moral responsibility & blame?→Deciding who holds full or the majority responsibility, someone who caused the original event, or someone who altered the outcome for good or worse
+- What are the various types of self driving car technology? >>>
+    - No automation 
+    - Driver assistance
+    - Partial automation
+    - Conditional automation
+    - High automation
+    -  *Full automation (Theoretical)* 
+- What are the concerns over drone technology in warfare? >>>
+    - Controversial use in targeted killings 
+    - Concerns over civilian casualties
+    - Many debates over autonomous weapons systems
+    - Questions over international law
+- What are the advantages of robot automated food making? >>>
+    - Consistent quality
+    - No labour costs
+    - 24/7 Operating capability
+    - Fast service during peak hours
+- What are the disadvantages of robot automated food making? >>>
+    - High initial investment
+    - Limited menu flexibility
+    - Job displacement in food service
+    - Customer acceptance of robot made food
+- 

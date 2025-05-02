@@ -1,0 +1,494 @@
+- Autonomous systems
+    - What are 3 positives of autonomous systems? >>>
+        - Systems can run 24/7 without any intervention
+        - Costs a lot less as there is less people to pay (but harms job market)
+        - Increased precision and accuracy (mainly in repetitive tasks)
+        - Ability to work in harmful environments
+        - Consistently has the same outcome
+    - What are 3 negatives of autonomous systems? >>>
+        - Large job displacement
+        - Safety concerns (Malfunctions etc.)
+        - Ethical dilemmas (Trolley problem)
+        - Privacy issues, data collection can raise concerns
+        - Bias and unfairness
+        - Public trust is low
+    - What are the 5 main moral ideologies >>>
+        -  Utilitarian
+        -  Value of life
+        -  Deontological
+        -  Action vs Inaction
+        - Moral responsibility & blame
+    - What is utilitarianism?→Focusing on the outcomes and the best possible outcome   
+    - What is value of life?→Is one life better than another, if so how?
+    - What is the deontological ideology?→Following the moral rules of not harming another person regardless of greater good  
+    - What is action vs inaction?→Is there a moral difference between doing something and not doing anything?
+    - What is moral responsibility & blame?→Who holds responsibility? The lever puller or who lead to this problem happening  
+    - What are the 6 levels of self driving car technologies? ^^^ *According to SAE Int.* ^^^ >>>
+        - No automation 
+        - Driver assistance
+        - Partial automation
+        - Conditional automation
+        - High automation
+        -  *Full automation (Theoretical)* 
+    - What are the 5 main moral pillars? >>>
+        -  Utilitarianism
+        -  Value of life
+        -  Deontological
+        -  Action vs Inaction  
+        -  Moral responsibility & blame
+    - What is Utilitarianism?→Focussing on all outcomes and choosing the best possible outcome for the  *only * the majority
+    - What is Value of life?→The moral responsibility of deciding weather or not one life is worth more than another
+    - What are Deontological ethics?→Following the moral rules of not harming another person regardless of greater good  
+    - What is action vs inaction?→Deciding if there is a moral difference between doing something and not doing anything in a given scenario
+    - What is Moral responsibility & blame?→Deciding who holds full or the majority responsibility, someone who caused the original event, or someone who altered the outcome for good or worse
+    - What are the various types of self driving car technology? >>>
+        - No automation 
+        - Driver assistance
+        - Partial automation
+        - Conditional automation
+        - High automation
+        -  *Full automation (Theoretical)* 
+    - What are the concerns over drone technology in warfare? >>>
+        - Controversial use in targeted killings 
+        - Concerns over civilian casualties
+        - Many debates over autonomous weapons systems
+        - Questions over international law
+    - What are the advantages of robot automated food making? >>>
+        - Consistent quality
+        - No labour costs
+        - 24/7 Operating capability
+        - Fast service during peak hours
+    - What are the disadvantages of robot automated food making? >>>
+        - High initial investment
+        - Limited menu flexibility
+        - Job displacement in food service
+        - Customer acceptance of robot made food
+    - 
+- Bias
+    - 
+    - What are the 9 types of unconscious bias? >>>
+        - Affinity bias
+        - Age bias
+        - Conformation bias
+        - Name bias
+        - Halo & horns effect
+        - Beauty bias
+        - Availablity bias
+        - Anchoring bias
+        - Gender bias
+    - What is the main impact of bias?→Can influence decision making, lead to unfair treatment etc.
+    - What are 4 types of bias (not unconscious) ? >>>
+        - Dunning-Kruger effect  
+        - Bandwagon effect  
+        - Sunk cost fallacy  
+        - Negativity bias  
+    - What is Affinity bias?→Preferring people who are similar to yourself, leading to a lack of diversity
+    - What is Conformation bias?→Seeking information that confirms what you currently believe, and ignoring/downplaying anything contradictory information (A lot of extremist political views are like this)
+    - What is the Halo & horns affect?→Letting one positive or negative trait to influence overall opinion
+    - What is Gender bias?→Preferring a gender over another (M, F, NB) e.g. assuming a nurse is female
+    - What is Age bias?→Discrimination against either younger or older age people. For example, assuming older people won’t adapt to new technologies
+    - What is Name bias?→Judging individuals by their name, usually linked to racial, ethnic or cultural bias’s. E.g. favoring more “western” sounding names as opposed to other cultures
+    - What is Beauty Bias?→Favoring attractive individuals over others. e.g. giving better service to attractive customers
+    - What is Availability bias?→Being influenced by recent events e.g. overestimating the chance of a car crash after hearing of one
+    - What is Anchoring bias?→Relying too heavily on the first piece of information encountered
+    - What is the Dunning-Kruger effect?→Overestimating someone's knowledge or bias in a field e.g. picking someone who is more confident over a more  modest person
+    - What is the Bandwagon effect?→Adopting behaviors/beliefs because many others have done e.g. buying something that’s trending (not because you want it)
+    - What is the Sunk cost fallacy?→Continuing doing something because you’ve invested in some way. e.g. gambling ‘until you win’
+    - What is Negativity bias?→Giving more weight to negative news and events as opposed to positive ones (very common in news)
+    - 
+    - 
+- Impacts of technology on society
+    - What are some positive social impacts of technology on society? >>>
+        - Communication - VoIP changed how easy it is to communicate over long distances, and made it affordable
+        - Cultures - Global interactions, allowing people to learn about various cultures
+        - Learning - Online language learning instead of having to have a teacher with you
+        - Contacts -  Maintaining contact with family & friends is simple
+    - What are some negative social impacts of technology on society? >>>
+        - Communication - Spend more time communicating remotely as opposed to talking to those around you
+        - Contacts - Physically people may be together but vastly detached due to technology (e.g. using phones for the entire time you go to see someone)
+        - Social media - FOMO from constant social media exposure and unrealistic expectations mainly for teenagers, expecting people to be unrealistically thin, or muscly
+        - Bullying - Cyber bullying is a huge problem and gives people no escape from physical bullying
+    - What's the digital divide?→The digital divide is the divide based on various factors between those who do have access to technology and those who do not, it includes:
+        - Socioeconomic status
+        - Geographic location
+        - Age
+        - Education
+        - Disability
+    - What is globalisation? >>>
+        - The process of interaction & integration among people, companies and governments worldwide  
+    - What are the main impacts of globalisation? >>>
+        - World markets - Products from  all over the world being sold everywhere
+        - Shared ideas - Different cultures learning from each other
+        - Global teamwork - Countries working together on big issues
+        - Tech for all - New inventions all over the globe
+    - What are some economic factors that have been caused by globalisation? >>>
+        - Trade deals - Making trade easier, buying and selling across boarders is fairly simple
+        - Large Corporations operate in many countries
+        - Products made using parts from all over the world
+        - Money and jobs move between countries often
+            - The effects of this are:
+            - Countries economies depend on one and other much more
+            - New business opportunities in a more developing country
+            - Some people get new chances but some may loose out
+    - What are some technological benefits created by globalisation? >>>
+        - Global internet - The internet connects everyone everywhere
+        - Tech standards - Technologies are becoming the same or similar in a lot of areas
+        - Worldwide tech companies - Big tech companies operate in a lot of companies
+        - Shared knowledge - Inventors & scientists share their discoveries globally
+    - What are the impacts of globalisation on technology? >>>
+        - Faster communication - talking, messaging, etc
+        - Industry changes - Businesses in areas like manufacturing and services are evolving
+        - Global digital platforms - Online shopping, social media etc are used everywhere around the world
+        - Global standards - RJ45 for Ethernet jacks/sockets
+    - What are some examples of cultural globalisation? >>>
+        - Global spread of TV shows, movies, music etc
+        - International news networks CNN, BBC
+        - Social media connecting cultures
+        - Global brands
+        - Adoption of fashion
+        - International tourism
+        - Global events
+        - Student exchange
+        - English as a global language
+        - Multilingualism and language learning
+    - What are two main health issues around high use of technology, and more specifically screens >>>
+        - Eyestrain
+        - Sleep issues
+        - Anxiety
+    - List 3 factors showing the digital divide >>>
+        - 5.9 Million adults in the UK have never used the internet 
+        - 4.1 Million adults living in social housing that are offline
+        - Southeast has highest population of recent internet users (90%) NI had lowest (80%)
+        - 16-24 have biggest internet use
+        - 75 - 90% require a computer
+        - Offline households miss out on savings of £560/yr (exclusive online deals)
+        - 27% of disabled adults (3.3Mil) had never used the internet
+    - 
+- The environment in technology
+    - What are 3 positive impacts of technology for the environment? >>>
+        - Renewable energy technology (solar, hydro, geothermic etc.)
+        - Environmental monitoring/data collection (Satellite monitoring)
+        - Waste management & recycling (Waste to energy, recycling)
+        - Remote working (less transport and heating offices)
+    - What are 3 negative impacts of technology for the environment? >>>
+        - Increased power consumption (4% Greenhouse gas emissions are IT, data centres use 70B kWh annually)
+        - Resources used (1 phone = 12,760L water and relies on rare earth metals, can cause environmental destruction)
+        - E-Waste (In 2022 57.4Mil. metric tones of e-waste were produced globally)
+    - What are the impacts of E-Waste on the environment? >>>
+        - Can release harmful harmful substances into the environment (toxic metals such as lead & mercury)
+        - WEE is how they are supposed to be recycled
+        - Only 17.4% of e-waste is recycled globally
+    - What is planned obsolescence?→A strategy where there is a planned limited lifespan of a product that happens before the hardware is beyond a reasonably useable state
+    - What is technological obsolescence?→Where a company makes a new model with improved features to make the older models look more outdated than they actually are
+    - What is programmed obsolescence?→Where products are designed to stop working or have a reduced functionality after a certain time, before the hardware goes beyond a useable state
+    - What is perceived obsolescence?→Marketing to create a want for new models of a product. Common in the fashion industry
+    - What is systemic obsolescence?→Updates to software or systems, making older hardware incompatible, often before the expected hardware lifecycle 
+    - What are the main things that smart cities have? >>>
+        - Internet of things devices
+        - Big data analysis
+        - Artificial Intelligence
+        - Citizen engagement platforms
+    - What are the environmental benifits of smart cities? >>>
+        - Smart grids with optimised energy distribution
+        - Intelligent street lighting
+        - IoT waste bins for optimised collection routes
+        - Automated recycling systems
+        - Real-time traffic management, helping to reduce traffic and congestion
+        - Easy and high use of electric and shared mobility options
+        - Smart water metering and leak detection systems
+        - IoT powered urban farming
+        - Smart Irrigation systems for parks
+    - What are the challenges of smart cities? >>>
+        - Data centres and network requirements
+        - Manufacturing & disposal of IoT devices that are often cheaply made
+        - Balancing data collection with individuals privacy
+        - Providing equal access to a smart cities benefits
+        - Protecting critical urban infrastructure from cyber threats
+    - 
+    - 
+- Video game ethics
+    - What country recognised gaming disorder as a serious concern?→South Korea
+    - What are the symptoms of gaming disorder? >>>
+        - Constantly thinking about gaming
+        - Irritable and restless when not playing
+        - Tiredness, headaches and in extreme cases migraines
+        - Not wanting to pay attention to personal hygiene
+        - Not socialising/seeing friends
+        - Wanting to sacrifice education in place of gaming
+        - Poor sleep and sleep disturbance
+    - What are loot boxes?→Virtual items that players pay for or earn (with earning being much harder) Players don’t know what they will receive and usually only a few items are good
+    - What are dark patterns in video games? >>>
+        - Guilt tripping - “Are you sure you want to loose a life?”
+        - Loss aversion - Pay 100 BS Gems to continue!
+        - FOMO - Your friends are playing this!
+        - Pay to win -  Pay 2.99 to get the ultimate 1 hit sword!
+        - Pay to skip
+    - What are the concerns around possible violence in video games?→Many games have been criticized for being violent and that this could cause more violence in the real world. There is **correlation **between violent video games and violence but  ***correlation ***  *doesn’t mean *  ***causation***  
+    - What is an example of poor gender representation in videogames?→Tomb raider, it originally had very exaggerated proportions for the main character, Laura Croft, and didn't focus on her story. Now the games in the series remove the exaggerated proportions and focus more on her as a person as opposed to the looks of the character
+    - What are some games with good LGBTQ+ representation? >>>
+        - The last of us (I/II)
+        - Dragon age: Inquisition
+        - Life is strange (series)
+    - What is morality in games?→When games have a strong moral aspect, for example choosing who to save or what path to take that will influence the characters in the game
+    - What is trolling in games→Intentionally disruptive or inflammatory behaviour in online gaming communities
+    - What are the main concerns over child gaming? >>>
+        - Exposure to mature content/Disregard of age ratings (often by parents)
+        - Too much screen time
+    - 
+- Company culture
+    - What is company culture?→Shared values and beliefs and practices giving an organisation character, including the environment, and interactions with colleges
+    - What are professional ethics?→A set of moral principles and standards that guide behaviour in a professional context, distinguishing right from wrong and acting in a manner that is considered morally acceptable
+    - What is the main role of professional ethics?→It ensures that people act responsibly and ethically within their role
+    - What's the difference between company culture and processional ethics?→Company culture is broader & encompasses the overall environment & social norms within a company, while professional ethics are specific to an individual
+    - What are the principles of professional ethics? >>>
+        - **Integrity - **Acting with honesty and strong moral principles in all dealings of business
+        - **Accountability - **Taking responsibility for actions, particularly when they effect others
+        - **Fairness - **Treating all individuals justly and equally without favourites or discrimination
+        - **Transparency - **Clear and open communications with no hidden meanings or targets, or dishonest practices
+    - Why are business ethics important? >>>
+        - Building trust - With employees, customers, partners etc
+        - Reputation - Companies with strong ethical values typically have better reputations and more long term success
+        - Legal compliance - Ethical behaviour makes sure businesses adhere to laws and regulations, reducing the risk of legal issues
+        - Employee morale - Positive ethical company culture increases job satisfaction and productivity
+    - Where is company culture used in technology? >>>
+        - Data privacy and security - protecting customer and employee data
+        - AI - Companies need to make sure that they use AI ethically and legally
+        - Employee monitoring - Ethical dilemmas happen when companies monitor without transparency violating privacy rights
+    - What ways is company culture used in leadership? >>>
+        - Leading by example - Ethical leaders act with integrity and encourage ethical behaviour
+        - Create ethical culture - Leadership sets the tone for company culture making sure that ethics are embedded through the company
+        - Employee empowerment - Companies must listen to employees when they voice concerns & report wrongdoings
+    - What are some common ethical challenges in business? >>>
+        - Conflicts of interests - where personal interests conflict with professional roles
+        - Misuse of company resources - using company assets for personal use/gain
+        - Data privacy - Failing to protect sensitive information leading to both ethical and legal consequences
+        - Discrimination & harassment - companies must have ethical standards of treating all employees fairly and providing a harassment free workplace
+    - What is whisleblowing?→The act of exposing unethical or illegal behaviour in an organisation often at personal risk
+    - What does whistleblowing cover? (What is allowed) >>>
+        - Criminal offences
+        - Dangers to health & safety
+        - Risks to the environment
+        - Legal violations by the organisation
+        - Covering up wrongdoing
+        - Miscarriages of justice
+    - What does whistleblowing NOT cover (What isn't allowed) >>>
+        - Personal Grievances
+        - Policy disagreements
+        - Minor violations
+        - Employee misconduct
+        - Private sector issues
+        - Legal activities
+    - How can businesses support whitstleblowing? >>>
+        - Establish clear policies
+        - Provide safe reporting channels
+        - Ensure confidentiality and protection
+        - Demonstrate commitment to addressing issues
+        - Foster trust and integrity
+    - Who was Edward Snowden?→A former CIA employee and NSA contractor (2013)
+    - **Leaked classified information revealing:**
+        - Mass surveillance programs (e.g., PRISM, XKeyscore)
+        - Bulk collection of phone records
+        - International intelligence partnerships (Five Eyes alliance)
+    - **Personal conflict:**
+        - Duty to employer vs. moral obligation to public
+        - National security vs. right to privacy
+    - **Immediate aftermath:**
+        - Fled to Hong Kong, then Russia
+        - Charged under Espionage Act in the U.S.
+    - **Long-term impact:**
+        - Global debate on privacy vs. security
+        - Reforms in surveillance laws (e.g., USA Freedom Act)
+        - Increased public awareness of digital privacy
+    - 
+    - 
+- Globalisation
+    - Who is commonly known as the person who predicted the internet?→Marshall McLuhan
+    - What was Marshall McLuhan's theory?→His Global Village concept envisioned a world interconnected by electronic media, where information would be shared instantly across vast distances
+    - What did Marshall McLuhan believe the future would look like? >>>
+        - People would be able to communicate and share information instantly across the globe
+        - Everyone in the world could experience events in a “simultaneous global experience”
+        - He said it would be the ‘collapse of space and time’ that electronic media would eliminate distance as a factor of communication
+        - Global interconnectedness where the world would shrink to his ‘Global village’
+    - What did Marshall McLuhan predict? >>>
+        - Global communication networks
+        - Visual communication across vast distances
+        - Portable connectivity devices
+        - Devices being interconnected & sharing information
+        - Immersing in experiences regardless of physical location
+        - Global access to learning resources
+    - What is globalisation?→The process by which businesses, cultures, and economies become interconnected through international trade, communication and technology
+    - What are the key factors causing globalisation? >>>
+        - Technological advancements in transportation & communication
+        - Trade liberalisation & economic policies
+        - Rise of global supply chains & multinational corporations
+    - What are the implications of globalisation? >>>
+        - Increasing economic interdependence
+        - Rapid transmission of economic shocks globally
+        - Technology as a catalyst for trade growth and resilience
+    - How has technology driven globalisation >>>
+        - Faster communication
+        - E-commerce and trade
+        - Global workforce (freelance & remote working)
+    - What are the two main things that globalisation has caused? >>>
+        - **Skills gap** - Globalisation demands new skill sets, with an emphasis on technology. The 4th industrial revolution has caused this demand in digital literacy, programming and data analysis
+        - **Remote work** - Tech has enabled the rise of the ‘gig economy’ & remote work. COVID-19 caused an initial rush from 17% of US workers to 44%, and 11% to 38%
+    - What impact did the COVID-19/SARS-CoV-2 Pandemic have on global connections? >>>
+        - Digital transformations - Rapid worldwide adoption of remote work technologies
+        - E-Commerce boom - Huge growth in cross-border online shopping
+        - Scientific collaboration - Open sharing of research data across the world
+        - Remote education - Virtual exchange programs over physical ones
+        - Digital entertainment - Rise of international ‘viral’ events and global streaming services (Netflix, Hulu, Discovery+)
+        - Travel and tourism - Temporary collapse of global tourism industry
+        - Supply chain disruption - Shortages of goods and materials
+        - Labour market impacts - Job losses in global industries
+        - Geopolitical tensions - Blame game of the origins & handling of the virus
+        - Cancellations of large cultural gatherings
+    - 
+    - 
+    - 
+- Intellectual Property & Piracy
+    - What is intellectual property?→It refers to creations of the mind, such as inventions, software, literary works, designs and symbols. IP law gives creators exclusive rights to use their inventions or works
+    - What is Piracy?→The illegal copying, distribution, or use of copyrighted materials often through torrenting 
+    - What are the main concerns with Piracy? >>>
+        - Undermines creators abilities to profit from their work and potentially hurting industries
+        - Torrenting sites - For sharing large files, commonly used for piracy which has its ethical concerns
+        - Economic impact - Leads to loss of revenue for industries, mainly the film and computer game industry
+        - Inhibiting violation - by stealing digital products it can discourage innovation particular for smaller creators
+        - Legal repercussions - Torrent sites and piracy sites have faced lawsuits and some been taken away
+    - What is The Pirate Bay?→One of the largest torrenting sites on the internet and the most widely known one, it has been sued many times and is banned in many countries. It allows free access to download copyrighted and paywalled content
+    - What are patents?→Documentation of a product or idea that a company or individual has filed, to use a patent you would have to get permission from the patent owner and most often pay a fee
+    - What's the difference between proprietary and open source software? >>>
+        - Open source software encourages collaboration
+        - Proprietary keeps it sealed to the team
+    - What are the different types of creative commons? >>>
+        - Attribution - Must credit the creator
+        - Non commercial (NC) - Cannot be used to profit any money
+        - No Derivatives - The work can only be used exactly as it is, not in any other way
+        - Share alike (SA) - Any new material produced using the work must use the exact same licenses
+    - How does piracy happen in 3D printing? >>>
+        - Often designs that are copyrighted are pirated
+        - Many are shared and have no licenses
+        - Many online platforms allow users to download and sell 3D models, some of which are copyrighted and distributed without permission
+        - Ethical dilemma - Selling or sharing the designs without licensing harms the original creators, raising questions over how ethical 3D printing is
+    - What is parody law?→Parody is the use of copyrighted material to create a humorous or satire versions of the original work
+    - How is fan art viewed through copyright?→When sold or monetized, it can violate copyright laws, most companies tolerate fan art non commercially, even though it infringes on copyright law it is rarely enforced
+    - What is necromarketing?→The use of people who have passed in current content
+    - What is the public domain?→The public domain consists of creative works, inventions, or information that are not protected by intellectual property laws such as copyright, patents, or trademarks
+    - 
+- Emerging technology
+    - What are some infulences of science fiction on technology? >>>
+        - 2001 A space odyssey (1968)
+            - Normalized the idea of ‘AI’ through HAL 900
+            - Siri released in 2014=
+        - Dick Tracy (1990)
+            - Wrist communication watches, now the various smartwatches
+        - The lawnmower man (1992)
+            - Virtual Reality, now HTC Vive and oculus rift
+        - Star trek: The next generation
+            - Devices that can print objects, now 3D printers
+        - Blade runner (1982)
+            - Neon cityscapes & digital billboards
+        - Back to the future part II (1989)
+            - Fingerprint sensors for home entry & devices
+            - Hoverboards, not to the extent of the movie but closeish
+        - The cable guy (1996)
+            - Prediction of smart TV’s
+        - Die another day (2002)
+            - Invisible car using camouflage
+    - List some examples of emerging tech >>>
+        - 3D Printing
+        - AI
+        - DNA being stored on crystals
+        - Synthetic biology
+        - AR Glasses
+    - What are some real world applications of AR? >>>
+        - **Healthcare** - Surgeons can use AR glasses to overlay X-Rays/MRI’s onto a patient during surgery
+        - **Navigation** - Pedestrians & drivers can use AR glasses to view real-time directions
+        - **Gaming & Entertainment** - AR glasses create immersive gaming experiences by projecting virtual elements into real world spaces
+        - **Enterprise use** - Warehouse workers can use AR glasses to scan & sort inventory hands-free
+    - What is Quantum computing?→Quantum computing uses the principles of quantum mechanics to process information in ways standard computers can’t match  
+    - What is cloud computing?→Centralised computing resources on servers, providing scalable computing power on demand  
+    - What is edge computing?→Bringing computation closer to the data source, reducing latency and improving real-time processing capabilities  
+    - What are some applications of cloud & edge computing? >>>
+        - Autonomous vehicles - Used to process data from sensors in real-time, enabling faster decision-making
+        - **Healthcare -** Allows hospitals to process data from IoT medical devices without latency, improving patient monitoring and response times
+        - **Retail -** Retailers use cloud computing to track inventory and manage supply chains with real-time data
+        - **Commercial space travel** - Companies such as Blue Origin# are starting space tourism and cargo transport to the ISS
+        - **Satellite internet** - Companies are launching constellations of low-Earth  orbit satellites to provide global internet coverage, even in remote locations
+    - What are some benifits of cloud and edge computing? >>>
+        - **Climate Monitoring -** Satellites are used to monitor changes in Earth’s climate, offering crucial data to understand and combat global warming.
+        - **Global Communication -** Satellite networks enable communication in remote areas, supporting disaster recovery and emergency response.
+    - What is a BCI?→Brain computer interface
+    - What do Brain computer interfaces allow for? >>>
+        - Direct communication between the brain and an external device  
+    - 
+- Big Data
+    - What are the 6 V's of data? >>>
+        - Volume - Amount of data from various sources 
+        - Variety - Types; Structured, semi-structured and unstructured
+        - Velocity - Speed that big data is generated
+        - Veracity - Degree that big data can be trusted
+        - Value - business value of data collected
+        - Variability - How big data can be used & formatted
+    - What is big data used for? (3) >>>
+        - Decision making - Using big data to make informed decisions, have improved efficiency, and to predict trends
+        - Personalisation - To tailor marketing to an individuals preferences
+        - Innovation - It drives AI technologies, including machine learning and predictive analysis, leading to new technologies and better solutions
+    - What are some privacy concerns over big data? >>>
+        - Data collection - Companies often collect much more data than needed, leading to privacy and surveillance concerns
+        - Surveillance - Governments & companies can track people using big data, raising concerns about control & consent
+        - Lack of control - Once collected, an individual often has little/no power on how their personal data is used
+    - What was the Cambridge Analytical scandal of 2018?→In 2018, it was revealed that Cambridge Analytica, a British political consulting firm, had improperly harvested data from 87 million Facebook users **without their consent**
+    - What ways does data bias show ethics? >>>
+        - Data reflects society - Big data reflects social biases and this is often shown in big data
+        - Discrimination - AI systems may discriminate over people of a different race, ethnicity et
+        - Ethical responsibility - Companies and governments should work to eliminate bias (But aren't incentivized to!)
+    - What are 3 ethical guidelines for big data use? >>>
+        - Transparency - Companies should be clear about data collection & how it is used
+        - Accountability - There must be consequences for misuse/unethical practices
+        - Consent - Users should have clear, accessible options to give & withdraw consent for data collection & use
+    - What's the predicted future of big data ethics? >>>
+        - Stronger regulation - Governments across the world are introducing stricter privacy laws (California CCPA, UK GDPR)
+        - Consumer rights - Consumers are demanding more control of their data, pushing companies to rethink data practices (or just deny and deny and bury them further)
+        - Balancing innovation and ethics - As data becomes the backbone of technological innovation, ethics need to adapt to keep use responsible
+    - 
+- IoT
+    - What is IoT?→A network of physical objects that connects to a network  
+    - What is an IoT device?→A device that isn’t typically connected to the internet, but can be
+    - What does IoT do?→The internet of things connects everyday devices to the internet, creating smarter and more efficient systems, impacting many aspects of modern life
+    - What is the rough evolution of IoT? >>>
+        -  ***1989 - First IoT device was created*** 
+        - 1993 - First online webcam is used at Cambridge
+        -  ***1999 - Kevin Ashton coins the term ‘Internet of Things’*** 
+        - 2000 - LG announces the first ‘smart’ (IoT) fridge
+        -  ***2005 - UN publishes first report on IoT*** 
+        -  ***2007 - First ‘smart’ phone (iPhone)*** 
+        -  ***2008 - Fitbit activity tracker is launched*** 
+        -  ***2011 - Industrial IoT is created*** 
+        - 2014 - Seoul becomes the worlds first ‘smart’ city
+        -  ***2015 - IoT is present in most smartphones*** 
+        - 2016 - AWS IoT core is launched
+        - 2020 - The number of IoT devices becomes over 50% of worldwide devices
+        -  ***2021 - 10 Billion active IoT devices worldwide*** 
+    - How does IoT work? >>1.
+        1. Sensors - Motion detectors, cameras etc collect data from the environment
+        2. Connectivity - IoT devices connect via wireless technologies to send data to cloud platforms or other device(s)
+        3. Cloud & Data processing - Data collected is commonly processed in the cloud, or locally, with data analysis carried out to interpret and act on the data.
+        4. UI (User Interface) - Apps, touchscreens, buttons and voice assistants allow users to control & interact with IoT devices/systems
+    - What is the global IoT market worth (2024)?→The global IoT market is worth ~ $1Bn USD
+    - What are some key applications of IoT? >>>
+        - Smart homes - Doorbells, fridges, ovens, washing machines etc
+        - Healthcare - Wearables, remote monitoring etc
+        - IIoT (Industrial IoT) - Used in factories for predictive maintenance to increase efficiency
+        - ‘Smart’ cities - Used to manage traffic, reduce energy usage, enhance pubic safety etc
+    - What are the main benefits of IoT? >>>
+        - Reduced costs - Automating processes and using real time monitoring cuts down on labour and therefore employee count
+        - Improved safety - Monitoring workplace environments to identify hazards before accidents happen
+        - Reduction in human error - Tasks that needed manual input are automated leaving little to no chance for human error
+        - Data collection - Collects & shares data through embedded sensors, provides organisations vast amounts of information for analysis
+    - What are the main negatives of IoT? >>>
+        - Security vulnerabilities - Often IoT has weak security protocols, making them susceptible to cyber hacks
+        - Data privacy - Masses of personal data are collected causing concern over how organisations use it
+        - Compatibility issues - Many devices and platforms cause issues working together
+        - Reliability - IoT devices require constant internet connection (typically, good ones can run on local networks) and power supply (or battery backup) to function, masses would fail with server or power issues
+    - 

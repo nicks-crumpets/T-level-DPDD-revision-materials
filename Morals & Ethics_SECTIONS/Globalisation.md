@@ -1,0 +1,44 @@
+- Who is commonly known as the person who predicted the internet?→Marshall McLuhan
+- What was Marshall McLuhan's theory?→His Global Village concept envisioned a world interconnected by electronic media, where information would be shared instantly across vast distances
+- What did Marshall McLuhan believe the future would look like? >>>
+    - People would be able to communicate and share information instantly across the globe
+    - Everyone in the world could experience events in a “simultaneous global experience”
+    - He said it would be the ‘collapse of space and time’ that electronic media would eliminate distance as a factor of communication
+    - Global interconnectedness where the world would shrink to his ‘Global village’
+- What did Marshall McLuhan predict? >>>
+    - Global communication networks
+    - Visual communication across vast distances
+    - Portable connectivity devices
+    - Devices being interconnected & sharing information
+    - Immersing in experiences regardless of physical location
+    - Global access to learning resources
+- What is globalisation?→The process by which businesses, cultures, and economies become interconnected through international trade, communication and technology
+- What are the key factors causing globalisation? >>>
+    - Technological advancements in transportation & communication
+    - Trade liberalisation & economic policies
+    - Rise of global supply chains & multinational corporations
+- What are the implications of globalisation? >>>
+    - Increasing economic interdependence
+    - Rapid transmission of economic shocks globally
+    - Technology as a catalyst for trade growth and resilience
+- How has technology driven globalisation >>>
+    - Faster communication
+    - E-commerce and trade
+    - Global workforce (freelance & remote working)
+- What are the two main things that globalisation has caused? >>>
+    - **Skills gap** - Globalisation demands new skill sets, with an emphasis on technology. The 4th industrial revolution has caused this demand in digital literacy, programming and data analysis
+    - **Remote work** - Tech has enabled the rise of the ‘gig economy’ & remote work. COVID-19 caused an initial rush from 17% of US workers to 44%, and 11% to 38%
+- What impact did the COVID-19/SARS-CoV-2 Pandemic have on global connections? >>>
+    - Digital transformations - Rapid worldwide adoption of remote work technologies
+    - E-Commerce boom - Huge growth in cross-border online shopping
+    - Scientific collaboration - Open sharing of research data across the world
+    - Remote education - Virtual exchange programs over physical ones
+    - Digital entertainment - Rise of international ‘viral’ events and global streaming services (Netflix, Hulu, Discovery+)
+    - Travel and tourism - Temporary collapse of global tourism industry
+    - Supply chain disruption - Shortages of goods and materials
+    - Labour market impacts - Job losses in global industries
+    - Geopolitical tensions - Blame game of the origins & handling of the virus
+    - Cancellations of large cultural gatherings
+- 
+- 
+- 

@@ -1,0 +1,66 @@
+- What are some positive social impacts of technology on society? >>>
+    - Communication - VoIP changed how easy it is to communicate over long distances, and made it affordable
+    - Cultures - Global interactions, allowing people to learn about various cultures
+    - Learning - Online language learning instead of having to have a teacher with you
+    - Contacts -  Maintaining contact with family & friends is simple
+- What are some negative social impacts of technology on society? >>>
+    - Communication - Spend more time communicating remotely as opposed to talking to those around you
+    - Contacts - Physically people may be together but vastly detached due to technology (e.g. using phones for the entire time you go to see someone)
+    - Social media - FOMO from constant social media exposure and unrealistic expectations mainly for teenagers, expecting people to be unrealistically thin, or muscly
+    - Bullying - Cyber bullying is a huge problem and gives people no escape from physical bullying
+- What's the digital divide?→The digital divide is the divide based on various factors between those who do have access to technology and those who do not, it includes:
+    - Socioeconomic status
+    - Geographic location
+    - Age
+    - Education
+    - Disability
+- What is globalisation? >>>
+    - The process of interaction & integration among people, companies and governments worldwide  
+- What are the main impacts of globalisation? >>>
+    - World markets - Products from  all over the world being sold everywhere
+    - Shared ideas - Different cultures learning from each other
+    - Global teamwork - Countries working together on big issues
+    - Tech for all - New inventions all over the globe
+- What are some economic factors that have been caused by globalisation? >>>
+    - Trade deals - Making trade easier, buying and selling across boarders is fairly simple
+    - Large Corporations operate in many countries
+    - Products made using parts from all over the world
+    - Money and jobs move between countries often
+        - The effects of this are:
+        - Countries economies depend on one and other much more
+        - New business opportunities in a more developing country
+        - Some people get new chances but some may loose out
+- What are some technological benefits created by globalisation? >>>
+    - Global internet - The internet connects everyone everywhere
+    - Tech standards - Technologies are becoming the same or similar in a lot of areas
+    - Worldwide tech companies - Big tech companies operate in a lot of companies
+    - Shared knowledge - Inventors & scientists share their discoveries globally
+- What are the impacts of globalisation on technology? >>>
+    - Faster communication - talking, messaging, etc
+    - Industry changes - Businesses in areas like manufacturing and services are evolving
+    - Global digital platforms - Online shopping, social media etc are used everywhere around the world
+    - Global standards - RJ45 for Ethernet jacks/sockets
+- What are some examples of cultural globalisation? >>>
+    - Global spread of TV shows, movies, music etc
+    - International news networks CNN, BBC
+    - Social media connecting cultures
+    - Global brands
+    - Adoption of fashion
+    - International tourism
+    - Global events
+    - Student exchange
+    - English as a global language
+    - Multilingualism and language learning
+- What are two main health issues around high use of technology, and more specifically screens >>>
+    - Eyestrain
+    - Sleep issues
+    - Anxiety
+- List 3 factors showing the digital divide >>>
+    - 5.9 Million adults in the UK have never used the internet 
+    - 4.1 Million adults living in social housing that are offline
+    - Southeast has highest population of recent internet users (90%) NI had lowest (80%)
+    - 16-24 have biggest internet use
+    - 75 - 90% require a computer
+    - Offline households miss out on savings of £560/yr (exclusive online deals)
+    - 27% of disabled adults (3.3Mil) had never used the internet
+- 

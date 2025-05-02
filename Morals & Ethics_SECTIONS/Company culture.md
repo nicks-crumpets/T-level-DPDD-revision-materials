@@ -1,0 +1,65 @@
+- What is company culture?→Shared values and beliefs and practices giving an organisation character, including the environment, and interactions with colleges
+- What are professional ethics?→A set of moral principles and standards that guide behaviour in a professional context, distinguishing right from wrong and acting in a manner that is considered morally acceptable
+- What is the main role of professional ethics?→It ensures that people act responsibly and ethically within their role
+- What's the difference between company culture and processional ethics?→Company culture is broader & encompasses the overall environment & social norms within a company, while professional ethics are specific to an individual
+- What are the principles of professional ethics? >>>
+    - **Integrity - **Acting with honesty and strong moral principles in all dealings of business
+    - **Accountability - **Taking responsibility for actions, particularly when they effect others
+    - **Fairness - **Treating all individuals justly and equally without favourites or discrimination
+    - **Transparency - **Clear and open communications with no hidden meanings or targets, or dishonest practices
+- Why are business ethics important? >>>
+    - Building trust - With employees, customers, partners etc
+    - Reputation - Companies with strong ethical values typically have better reputations and more long term success
+    - Legal compliance - Ethical behaviour makes sure businesses adhere to laws and regulations, reducing the risk of legal issues
+    - Employee morale - Positive ethical company culture increases job satisfaction and productivity
+- Where is company culture used in technology? >>>
+    - Data privacy and security - protecting customer and employee data
+    - AI - Companies need to make sure that they use AI ethically and legally
+    - Employee monitoring - Ethical dilemmas happen when companies monitor without transparency violating privacy rights
+- What ways is company culture used in leadership? >>>
+    - Leading by example - Ethical leaders act with integrity and encourage ethical behaviour
+    - Create ethical culture - Leadership sets the tone for company culture making sure that ethics are embedded through the company
+    - Employee empowerment - Companies must listen to employees when they voice concerns & report wrongdoings
+- What are some common ethical challenges in business? >>>
+    - Conflicts of interests - where personal interests conflict with professional roles
+    - Misuse of company resources - using company assets for personal use/gain
+    - Data privacy - Failing to protect sensitive information leading to both ethical and legal consequences
+    - Discrimination & harassment - companies must have ethical standards of treating all employees fairly and providing a harassment free workplace
+- What is whisleblowing?→The act of exposing unethical or illegal behaviour in an organisation often at personal risk
+- What does whistleblowing cover? (What is allowed) >>>
+    - Criminal offences
+    - Dangers to health & safety
+    - Risks to the environment
+    - Legal violations by the organisation
+    - Covering up wrongdoing
+    - Miscarriages of justice
+- What does whistleblowing NOT cover (What isn't allowed) >>>
+    - Personal Grievances
+    - Policy disagreements
+    - Minor violations
+    - Employee misconduct
+    - Private sector issues
+    - Legal activities
+- How can businesses support whitstleblowing? >>>
+    - Establish clear policies
+    - Provide safe reporting channels
+    - Ensure confidentiality and protection
+    - Demonstrate commitment to addressing issues
+    - Foster trust and integrity
+- Who was Edward Snowden?→A former CIA employee and NSA contractor (2013)
+- **Leaked classified information revealing:**
+    - Mass surveillance programs (e.g., PRISM, XKeyscore)
+    - Bulk collection of phone records
+    - International intelligence partnerships (Five Eyes alliance)
+- **Personal conflict:**
+    - Duty to employer vs. moral obligation to public
+    - National security vs. right to privacy
+- **Immediate aftermath:**
+    - Fled to Hong Kong, then Russia
+    - Charged under Espionage Act in the U.S.
+- **Long-term impact:**
+    - Global debate on privacy vs. security
+    - Reforms in surveillance laws (e.g., USA Freedom Act)
+    - Increased public awareness of digital privacy
+- 
+- 

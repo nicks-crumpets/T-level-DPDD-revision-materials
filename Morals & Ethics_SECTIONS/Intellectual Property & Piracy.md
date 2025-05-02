@@ -1,0 +1,28 @@
+- What is intellectual property?→It refers to creations of the mind, such as inventions, software, literary works, designs and symbols. IP law gives creators exclusive rights to use their inventions or works
+- What is Piracy?→The illegal copying, distribution, or use of copyrighted materials often through torrenting 
+- What are the main concerns with Piracy? >>>
+    - Undermines creators abilities to profit from their work and potentially hurting industries
+    - Torrenting sites - For sharing large files, commonly used for piracy which has its ethical concerns
+    - Economic impact - Leads to loss of revenue for industries, mainly the film and computer game industry
+    - Inhibiting violation - by stealing digital products it can discourage innovation particular for smaller creators
+    - Legal repercussions - Torrent sites and piracy sites have faced lawsuits and some been taken away
+- What is The Pirate Bay?→One of the largest torrenting sites on the internet and the most widely known one, it has been sued many times and is banned in many countries. It allows free access to download copyrighted and paywalled content
+- What are patents?→Documentation of a product or idea that a company or individual has filed, to use a patent you would have to get permission from the patent owner and most often pay a fee
+- What's the difference between proprietary and open source software? >>>
+    - Open source software encourages collaboration
+    - Proprietary keeps it sealed to the team
+- What are the different types of creative commons? >>>
+    - Attribution - Must credit the creator
+    - Non commercial (NC) - Cannot be used to profit any money
+    - No Derivatives - The work can only be used exactly as it is, not in any other way
+    - Share alike (SA) - Any new material produced using the work must use the exact same licenses
+- How does piracy happen in 3D printing? >>>
+    - Often designs that are copyrighted are pirated
+    - Many are shared and have no licenses
+    - Many online platforms allow users to download and sell 3D models, some of which are copyrighted and distributed without permission
+    - Ethical dilemma - Selling or sharing the designs without licensing harms the original creators, raising questions over how ethical 3D printing is
+- What is parody law?→Parody is the use of copyrighted material to create a humorous or satire versions of the original work
+- How is fan art viewed through copyright?→When sold or monetized, it can violate copyright laws, most companies tolerate fan art non commercially, even though it infringes on copyright law it is rarely enforced
+- What is necromarketing?→The use of people who have passed in current content
+- What is the public domain?→The public domain consists of creative works, inventions, or information that are not protected by intellectual property laws such as copyright, patents, or trademarks
+- 

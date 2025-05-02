@@ -1,0 +1,28 @@
+- What country recognised gaming disorder as a serious concern?→South Korea
+- What are the symptoms of gaming disorder? >>>
+    - Constantly thinking about gaming
+    - Irritable and restless when not playing
+    - Tiredness, headaches and in extreme cases migraines
+    - Not wanting to pay attention to personal hygiene
+    - Not socialising/seeing friends
+    - Wanting to sacrifice education in place of gaming
+    - Poor sleep and sleep disturbance
+- What are loot boxes?→Virtual items that players pay for or earn (with earning being much harder) Players don’t know what they will receive and usually only a few items are good
+- What are dark patterns in video games? >>>
+    - Guilt tripping - “Are you sure you want to loose a life?”
+    - Loss aversion - Pay 100 BS Gems to continue!
+    - FOMO - Your friends are playing this!
+    - Pay to win -  Pay 2.99 to get the ultimate 1 hit sword!
+    - Pay to skip
+- What are the concerns around possible violence in video games?→Many games have been criticized for being violent and that this could cause more violence in the real world. There is **correlation **between violent video games and violence but  ***correlation ***  *doesn’t mean *  ***causation***  
+- What is an example of poor gender representation in videogames?→Tomb raider, it originally had very exaggerated proportions for the main character, Laura Croft, and didn't focus on her story. Now the games in the series remove the exaggerated proportions and focus more on her as a person as opposed to the looks of the character
+- What are some games with good LGBTQ+ representation? >>>
+    - The last of us (I/II)
+    - Dragon age: Inquisition
+    - Life is strange (series)
+- What is morality in games?→When games have a strong moral aspect, for example choosing who to save or what path to take that will influence the characters in the game
+- What is trolling in games→Intentionally disruptive or inflammatory behaviour in online gaming communities
+- What are the main concerns over child gaming? >>>
+    - Exposure to mature content/Disregard of age ratings (often by parents)
+    - Too much screen time
+- 

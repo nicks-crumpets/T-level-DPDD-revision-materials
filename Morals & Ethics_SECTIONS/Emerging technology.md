@@ -1,0 +1,46 @@
+- What are some infulences of science fiction on technology? >>>
+    - 2001 A space odyssey (1968)
+        - Normalized the idea of ‘AI’ through HAL 900
+        - Siri released in 2014=
+    - Dick Tracy (1990)
+        - Wrist communication watches, now the various smartwatches
+    - The lawnmower man (1992)
+        - Virtual Reality, now HTC Vive and oculus rift
+    - Star trek: The next generation
+        - Devices that can print objects, now 3D printers
+    - Blade runner (1982)
+        - Neon cityscapes & digital billboards
+    - Back to the future part II (1989)
+        - Fingerprint sensors for home entry & devices
+        - Hoverboards, not to the extent of the movie but closeish
+    - The cable guy (1996)
+        - Prediction of smart TV’s
+    - Die another day (2002)
+        - Invisible car using camouflage
+- List some examples of emerging tech >>>
+    - 3D Printing
+    - AI
+    - DNA being stored on crystals
+    - Synthetic biology
+    - AR Glasses
+- What are some real world applications of AR? >>>
+    - **Healthcare** - Surgeons can use AR glasses to overlay X-Rays/MRI’s onto a patient during surgery
+    - **Navigation** - Pedestrians & drivers can use AR glasses to view real-time directions
+    - **Gaming & Entertainment** - AR glasses create immersive gaming experiences by projecting virtual elements into real world spaces
+    - **Enterprise use** - Warehouse workers can use AR glasses to scan & sort inventory hands-free
+- What is Quantum computing?→Quantum computing uses the principles of quantum mechanics to process information in ways standard computers can’t match  
+- What is cloud computing?→Centralised computing resources on servers, providing scalable computing power on demand  
+- What is edge computing?→Bringing computation closer to the data source, reducing latency and improving real-time processing capabilities  
+- What are some applications of cloud & edge computing? >>>
+    - Autonomous vehicles - Used to process data from sensors in real-time, enabling faster decision-making
+    - **Healthcare -** Allows hospitals to process data from IoT medical devices without latency, improving patient monitoring and response times
+    - **Retail -** Retailers use cloud computing to track inventory and manage supply chains with real-time data
+    - **Commercial space travel** - Companies such as Blue Origin# are starting space tourism and cargo transport to the ISS
+    - **Satellite internet** - Companies are launching constellations of low-Earth  orbit satellites to provide global internet coverage, even in remote locations
+- What are some benifits of cloud and edge computing? >>>
+    - **Climate Monitoring -** Satellites are used to monitor changes in Earth’s climate, offering crucial data to understand and combat global warming.
+    - **Global Communication -** Satellite networks enable communication in remote areas, supporting disaster recovery and emergency response.
+- What is a BCI?→Brain computer interface
+- What do Brain computer interfaces allow for? >>>
+    - Direct communication between the brain and an external device  
+- 

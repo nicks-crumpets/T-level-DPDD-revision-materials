@@ -1,0 +1,41 @@
+- What are 3 positive impacts of technology for the environment? >>>
+    - Renewable energy technology (solar, hydro, geothermic etc.)
+    - Environmental monitoring/data collection (Satellite monitoring)
+    - Waste management & recycling (Waste to energy, recycling)
+    - Remote working (less transport and heating offices)
+- What are 3 negative impacts of technology for the environment? >>>
+    - Increased power consumption (4% Greenhouse gas emissions are IT, data centres use 70B kWh annually)
+    - Resources used (1 phone = 12,760L water and relies on rare earth metals, can cause environmental destruction)
+    - E-Waste (In 2022 57.4Mil. metric tones of e-waste were produced globally)
+- What are the impacts of E-Waste on the environment? >>>
+    - Can release harmful harmful substances into the environment (toxic metals such as lead & mercury)
+    - WEE is how they are supposed to be recycled
+    - Only 17.4% of e-waste is recycled globally
+- What is planned obsolescence?→A strategy where there is a planned limited lifespan of a product that happens before the hardware is beyond a reasonably useable state
+- What is technological obsolescence?→Where a company makes a new model with improved features to make the older models look more outdated than they actually are
+- What is programmed obsolescence?→Where products are designed to stop working or have a reduced functionality after a certain time, before the hardware goes beyond a useable state
+- What is perceived obsolescence?→Marketing to create a want for new models of a product. Common in the fashion industry
+- What is systemic obsolescence?→Updates to software or systems, making older hardware incompatible, often before the expected hardware lifecycle 
+- What are the main things that smart cities have? >>>
+    - Internet of things devices
+    - Big data analysis
+    - Artificial Intelligence
+    - Citizen engagement platforms
+- What are the environmental benifits of smart cities? >>>
+    - Smart grids with optimised energy distribution
+    - Intelligent street lighting
+    - IoT waste bins for optimised collection routes
+    - Automated recycling systems
+    - Real-time traffic management, helping to reduce traffic and congestion
+    - Easy and high use of electric and shared mobility options
+    - Smart water metering and leak detection systems
+    - IoT powered urban farming
+    - Smart Irrigation systems for parks
+- What are the challenges of smart cities? >>>
+    - Data centres and network requirements
+    - Manufacturing & disposal of IoT devices that are often cheaply made
+    - Balancing data collection with individuals privacy
+    - Providing equal access to a smart cities benefits
+    - Protecting critical urban infrastructure from cyber threats
+- 
+- 

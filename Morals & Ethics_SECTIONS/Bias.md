@@ -1,0 +1,32 @@
+- 
+- What are the 9 types of unconscious bias? >>>
+    - Affinity bias
+    - Age bias
+    - Conformation bias
+    - Name bias
+    - Halo & horns effect
+    - Beauty bias
+    - Availablity bias
+    - Anchoring bias
+    - Gender bias
+- What is the main impact of bias?→Can influence decision making, lead to unfair treatment etc.
+- What are 4 types of bias (not unconscious) ? >>>
+    - Dunning-Kruger effect  
+    - Bandwagon effect  
+    - Sunk cost fallacy  
+    - Negativity bias  
+- What is Affinity bias?→Preferring people who are similar to yourself, leading to a lack of diversity
+- What is Conformation bias?→Seeking information that confirms what you currently believe, and ignoring/downplaying anything contradictory information (A lot of extremist political views are like this)
+- What is the Halo & horns affect?→Letting one positive or negative trait to influence overall opinion
+- What is Gender bias?→Preferring a gender over another (M, F, NB) e.g. assuming a nurse is female
+- What is Age bias?→Discrimination against either younger or older age people. For example, assuming older people won’t adapt to new technologies
+- What is Name bias?→Judging individuals by their name, usually linked to racial, ethnic or cultural bias’s. E.g. favoring more “western” sounding names as opposed to other cultures
+- What is Beauty Bias?→Favoring attractive individuals over others. e.g. giving better service to attractive customers
+- What is Availability bias?→Being influenced by recent events e.g. overestimating the chance of a car crash after hearing of one
+- What is Anchoring bias?→Relying too heavily on the first piece of information encountered
+- What is the Dunning-Kruger effect?→Overestimating someone's knowledge or bias in a field e.g. picking someone who is more confident over a more  modest person
+- What is the Bandwagon effect?→Adopting behaviors/beliefs because many others have done e.g. buying something that’s trending (not because you want it)
+- What is the Sunk cost fallacy?→Continuing doing something because you’ve invested in some way. e.g. gambling ‘until you win’
+- What is Negativity bias?→Giving more weight to negative news and events as opposed to positive ones (very common in news)
+- 
+- 
