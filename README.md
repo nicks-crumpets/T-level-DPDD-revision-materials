@@ -14,3 +14,6 @@ These folders are just named as their topics and contain separate files for each
 ## Full Topics
 This folder will have every topic as a single file containing all of the cards for the topic
 
+##
+
+For anyone who's interested, all the flashcards were made with remnote and exported as markdown files so they can be conpatible with as many fashcard apps as possible. If you're looking for a different format for the cards let me know
