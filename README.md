@@ -4,7 +4,7 @@
 
 Revision materials for the T level in Digital Production Design and Development.
 
-This **only contains first year material currently** and will contain seccond year material later
+This **only contains first year material currently** and will contain seccond year material later, because i'm currently only in the first year :)
 
 Currently these are not finished, and contain only flashcards but will be updated as they're created
 
