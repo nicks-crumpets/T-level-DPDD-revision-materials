@@ -12,7 +12,7 @@ GitHub: https://github.com/PatelN123/Digital-Support-Notes
 
 ### ONLY FIRST YEAR MATERIAL CURRENTLY
 I'm only in my first year of this course, after I have completed the second year the notes for
-that will go here too. As of currently (Sitting my ESP exam) I am not uploading any more flashcards,
+that will go here too. As of currently I am not uploading any more flashcards,
 they'll all go up after the exams are over (Mid-June)
 
 Currently, there are flashcards available for the unit on Morals & Ethics and some on the pandas
