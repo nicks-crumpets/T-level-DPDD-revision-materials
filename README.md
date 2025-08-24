@@ -9,7 +9,7 @@ This is **not made for the T Level Digital Support Services**, however the ESP t
 I'm only in my first year of this course, after I have completed the second year the notes for
 that will go here too.
 
-# Topic notes -- V0.1 OUT NOW! --
+# Topic notes
 
 These are longer form notes made over various lessons, made originally in Notion, they'll be
 in a format that can be put back into Notion or a similar editor, and available as an HTML page
