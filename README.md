@@ -1,8 +1,8 @@
-# T-level-DPDD-revision-materials
-
+# Digital Software Development revision materials
+_Formerly known as the T level Digital production development and design_
 
 Revision materials for the **T level in Digital Production Design and Development**
-This is **not made for the T Level Digital Support Services**, however the ESP task, and topics such as digital environments remain the same. Please check first what ones apply to you if you're on this course, don't revise the wrong stuff! (See bottom of page for links to the revision material for that course)
+This repo **does _not_ include any materials for the digital support version of this course**, however the ESP task, and topics such as digital environments remain the same. Please check first what ones apply to you if you're on this course, don't revise the wrong stuff! (See bottom of page for links to the revision material for that course)
 
 ### ONLY FIRST YEAR MATERIAL CURRENTLY
 I'm only in my first year of this course, after I have completed the second year the notes for
